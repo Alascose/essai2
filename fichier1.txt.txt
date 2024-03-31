@@ -1,0 +1,4 @@
+Projet 5 : Application de suivi de la météo agricole :
+• Développer une application web fournissant des prévisions météorologiques précises
+et des conseils agricoles aux agriculteurs de Bobo Dioulasso, les aidant ainsi à
+planifier leurs activités agricoles de manière efficace

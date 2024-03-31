@@ -1,0 +1,4 @@
+Projet 6 : Application de suivi de l'état des routes :
+• Créer une application web permettant aux citoyens de signaler les routes
+endommagées, les nids-de-poule et les zones à risque sur les routes de Bobo
+Dioulasso, contribuant ainsi à améliorer la sécurité routière et les infrastructures.
